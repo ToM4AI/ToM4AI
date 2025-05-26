@@ -3,7 +3,6 @@ permalink: /book/
 title: "ToM4AI book"
 author_profile: true
 redirect_from: 
-  - /book/
   - /book.html
 ---
 
