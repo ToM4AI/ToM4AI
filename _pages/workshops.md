@@ -3,7 +3,7 @@ permalink: /workshops/
 title: "ToM4AI workshops"
 author_profile: true
 redirect_from: 
-  - /workshops/  
+  - /Workshops/  
 ---
 
 The inaugural ToM4AI workshop, held on **March 3, 2025**, at the Pennsylvania Convention Center in Philadelphia, featured keynote presentations from leading scholars including **Rebecca Saxe** and **Joshua Tenenbaum** (MIT), **Sheila McIlraith** (University of Toronto), and **Harmen de Weerd** (University of Groningen).
