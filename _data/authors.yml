@@ -1,16 +1,32 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
+Nitay Alon:
+  name        : "Nitay Alon"
+  uri         : "https://nitayalon.github.io/"
+  email       : "nitay.alon@mail.huji.ac.il"
+  bio         : "Nitay Alon is a Ph.D. student at the Hebrew University of Jerusalem, where he is co-advised by Prof. Jeffrey Rosenschein and Prof. Peter Dayan. His research focuses on modeling Theory of Mind in multi-agent systems, integrating concepts from game theory, reinforcement learning, and economics to understand cognitive and structural hierarchies. He holds an M.Sc. in Statistics and Machine Learning from Tel Aviv University, where he completed a thesis on the impact of Brownian motion drift changes on Skorokhod embeddings, with applications in finance. He also earned dual bachelor's degrees in Statistics & Operations Research and Economics from the same institution. Alon is currently a guest scientist in the Department of Computational Neuroscience at the Max Planck Institute for Biological Cybernetics in Tübingen, Germany.He is a co-organizer of the Theory of Mind for AI (ToM4AI) initiative, which aims to integrate human-like social cognition into artificial intelligence systems. Alon has also contributed to the industry as a researcher at Optimove's Data Science Lab, where he developed recommendation systems and anomaly detection mechanisms."
+  avatar      : "NitayAlon.jpg"
+  twitter     : "@nitalon"
+
+
+Reuth Mirsky:
+  name        : "Reuth Mirsky"
+  email       : "name2@name2.com"
+  bio         : "I ordered what?"
+  avatar      : "bio-photo.jpg"
+  twitter     : "name2"
   google_plus : "Name"
 
-Name2 Name2:
-  name        : "Name2 Name2"
+Joe M. Barnby:
+  name        : "Joe M. Barnby"
+  email       : "name2@name2.com"
+  bio         : "I ordered what?"
+  avatar      : "bio-photo.jpg"
+  twitter     : "name2"
+  google_plus : "Name"
+
+Stefan Sarkadi:
+  name        : "Stefan Sarkadi"
   email       : "name2@name2.com"
   bio         : "I ordered what?"
   avatar      : "bio-photo.jpg"
