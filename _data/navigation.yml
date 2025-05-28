@@ -14,6 +14,9 @@ main:
   - title: "Book"
     url: /book/  
   
+  - title: "About"
+    url: /about-us/
+
   - title: "Blog"
     url: /year-archive/
     

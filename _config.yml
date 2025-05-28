@@ -23,7 +23,7 @@ repository               : "ToM4AI/ToM4AI.github.io"
 author:
   # Biographic information
   avatar           : "site_logo.jpg"
-  name             : "Learn more"
+  name             : "About us"
   pronouns         : # example: "she/her"  
   bio              : "ToM4AI is an initiative to promote the incorporation of ToM in AI"
   location         : "Global" # Location of the author, e.g. "New York, NY"
