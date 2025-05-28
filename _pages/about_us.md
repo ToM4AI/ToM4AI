@@ -1,9 +1,9 @@
 ---
-permalink: /about_us/
+permalink: /about-us/
 title: "About Us"
 author_profile: true
 redirect_from: 
-  - /about_us.html
+  - /about-us.html
 ---
 
 We are a group of 4 scientists, from various backgrounds, dedicated to the research of Theory-of-Mind and its application to AI.
