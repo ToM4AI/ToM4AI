@@ -15,7 +15,7 @@ The ToM4AI initiative is led by four core members:
 - **Reuth Mirsky**
 - **Stefan Sarkadi**
 
-Learn more about us on the [About Us page](/about-us/).
+Learn more about us on the [About Us page](https://ToM4AI.github.io/about-us/).
 
 ## What We Do
 
@@ -26,7 +26,7 @@ Learn more about us on the [About Us page](/about-us/).
 ## Get Involved
 
 - Visit our [website](https://ToM4AI.github.io) for updates, publications, and event information.
-- Check out our [Workshops](/workshops/) and [Blog](/year-archive/) for the latest news and insights.
+- Check out our [Workshops](https://ToM4AI.github.io/workshops/) and [Blog](https://ToM4AI.github.io/year-archive/) for the latest news and insights.
 - Contact us if you are interested in collaborating or learning more about our work.
 
 ---
