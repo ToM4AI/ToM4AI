@@ -10,7 +10,7 @@ We are a group of 4 scientists, from various backgrounds, dedicated to the resea
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap; gap: 30px; margin-top: 2em; margin-bottom: 2em;">
   <div style="text-align: center;">
-    <img src="../images/NitayAlon.png" alt="Nitay Alon" style="width:180px; border-radius: 10px;"><br>
+    <img src="../images/NitayAlon.png" alt="Nitay Alon" style="width:350px; border-radius: 10px;"><br>
     <b>Nitay Alon</b>
   </div>
   <div style="text-align: center;">
