@@ -28,9 +28,3 @@ Learn more about us on the [About Us page](https://ToM4AI.github.io/about-us/).
 - Visit our [website](https://ToM4AI.github.io) for updates, publications, and event information.
 - Check out our [Workshops](https://ToM4AI.github.io/workshops/) and [Blog](https://ToM4AI.github.io/year-archive/) for the latest news and insights.
 - Contact us if you are interested in collaborating or learning more about our work.
-
----
-
-<div align="center">
-    <img src="images/homepage.png" alt="ToM4AI Initiative" width="400"/>
-</div>
