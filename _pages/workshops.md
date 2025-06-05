@@ -22,3 +22,5 @@ The workshop proceedings, encompassing 28 contributions, are available on arXiv:
 For more information, visit the ToM4AI workshop website: [https://sites.google.com/view/theory-of-mind-aaai-2025](https://sites.google.com/view/theory-of-mind-aaai-2025)
 
 ## AAAI-2026
+
+Follow us for updates about up and coming events
