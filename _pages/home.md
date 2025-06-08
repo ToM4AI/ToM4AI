@@ -3,8 +3,8 @@ permalink: /
 title: "ToM4AI initiative"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /home/
+  - /home.html
 ---
 
 The **Theory of Mind for AI (ToM4AI)** initiative is a multidisciplinary effort dedicated to advancing artificial intelligence by integrating principles of human social cognition.
